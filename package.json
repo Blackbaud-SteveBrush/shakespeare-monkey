@@ -1,0 +1,9 @@
+{
+  "name": "macbeth",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
+}

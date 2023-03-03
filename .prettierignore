@@ -1,0 +1,6 @@
+/coverage
+/dist
+/node_modules
+/reports
+/results
+package-lock.json
